@@ -1,0 +1,15 @@
+dataset_root/
+dataset/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.mp4
+*.png
+*.jpg
